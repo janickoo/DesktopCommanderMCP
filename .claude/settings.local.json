@@ -8,5 +8,6 @@
     ],
     "deny": [],
     "ask": []
-  }
+  }curl -fsSL https://raw.githubusercontent.com/wonderwhy-er/DesktopCommanderMCP/refs/heads/main/install.sh | bash
+  
 }
